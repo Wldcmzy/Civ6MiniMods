@@ -1,0 +1,36 @@
+[h1]Mod Based on Expansion Pack: [b]Gathering Storm[/b][/h1]
+
+[h1]Translated by ChatGPT[/h1]
+
+[h1]仅玩家的平民单位不可俘获[/h1]
+[h1]僅玩家的平民單位不可俘獲[/h1]
+[h1]プレーヤーの民間ユニットのみが捕獲されません[/h1]
+[h1]플레이어의 민간 단위만이 포획되지 않습니다[/h1]
+[h1]Только гражданские единицы игрока не могут быть захвачены[/h1]
+[h1]Only the player's civilian units cannot be captured[/h1]
+[h1]Nur die zivilen Einheiten des Spielers können nicht gefangen genommen werden[/h1]
+[h1]Solo le unità civili del giocatore non possono essere catturate[/h1]
+[h1]Seules les unités civiles du joueur ne peuvent pas être capturées[/h1]
+[h1]Solo las unidades civiles del jugador no pueden ser capturadas[/h1]
+[h1]Apenas as unidades civis do jogador não podem ser capturadas[/h1]
+[h1]Tylko cywilne jednostki gracza nie mogą być pojmane[/h1]
+
+
+[h1]已知bug[/h1]
+
+有小概率事件，单位会被直接-100锤死，原因未知。
+有小概率事件，單位會被直接-100錘死，原因未知。
+単位が直接-100ハンマーで死亡する可能性がわずかにあります。理由は不明です。
+유닛이 직접 -100 망치로 사망할 확률이 있습니다. 이유는 알려지지 않았습니다.
+Существует маленькая вероятность того, что юниты будут непосредственно убиты -100 молотками, причина неизвестна.
+There is a small probability that units will be directly killed by -100 hammers, the reason is unknown.
+Es gibt eine geringe Wahrscheinlichkeit, dass Einheiten direkt um -100 Hammer sterben, der Grund ist unbekannt.
+C'è una piccola probabilità che le unità vengano direttamente uccise di -100 Martello, la ragione è sconosciuta.
+Il existe une petite probabilité que les unités soient directement tuées de -100 Marteau, la raison est inconnue.
+Existe una pequeña probabilidad de que las unidades sean asesinadas directamente por -100 martillos, la razón es desconocida.
+Existe uma pequena probabilidade de que as unidades sejam mortas diretamente com -100 martelos, a razão é desconhecida.
+Istnieje małe prawdopodobieństwo, że jednostki zostaną bezpośrednio zabite przez -100 młotów, powód jest nieznany.
+
+
+
+

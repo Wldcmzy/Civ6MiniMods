@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text -->
+<!-- Author: SS -->
+<!-- DateCreated: 4/18/2024 9:48:49 AM -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="zh_Hans_CN">
+			<Text>让这样一个无缚鸡之力的单位处于未受保护的状态很不明智。[NEWLINE][NEWLINE]您的单位差点被{1_Civ}俘获，但他还是逃出升天了。</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="zh_Hans_CN">
+			<Text>单位险些被俘</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="zh_Hant_HK">
+			<Text>讓這樣一個毫無防護的單位處於無所遁形的狀態很不明智。[NEWLINE][NEWLINE]您的單位差點被{1_Civ}俘獲，但他還是逃走了。</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="zh_Hant_HK">
+			<Text>單位差點被俘</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="de_DE">
+			<Text>Lassen Sie eine ungeschützte Einheit in einem schutzlosen Zustand zu sein, ist nicht klug. [NEWLINE][NEWLINE] Ihre Einheit wurde fast gefangen genommen, aber sie ist entkommen.</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="de_DE">
+			<Text>Einheit fast gefangen</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="it_IT">
+			<Text>Lasciare un'unità non protetta in uno stato di non difesa non è saggio. [NEWLINE][NEWLINE] La tua unità è stata quasi catturata da {1_Civ}, ma è riuscita a scappare.</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="it_IT">
+			<Text>Unità quasi catturata</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="fr_FR">
+			<Text>Laisser une unité sans défense dans un état de vulnérabilité n'est pas sage. [NEWLINE][NEWLINE] Votre unité a failli être capturée par {1_Civ}, mais elle a réussi à s'échapper.</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="fr_FR">
+			<Text>Unité presque capturée</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="es_ES">
+			<Text>Dejar una unidad desprotegida en un estado sin protección no es sabio. [NEWLINE][NEWLINE] Su unidad estuvo a punto de ser capturada por {1_Civ}, pero logró escapar.</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="es_ES">
+			<Text>Unidad casi capturada</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="pt_BR">
+			<Text>Deixar uma unidade desprotegida em um estado sem proteção não é sensato. [NEWLINE][NEWLINE] Sua unidade quase foi capturada por {1_Civ}, mas conseguiu escapar.</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="pt_BR">
+			<Text>Unidade quase capturada</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="pl_PL">
+			<Text>Pozostawienie jednostki bez ochrony w stanie bezbronności nie jest mądre. [NEWLINE][NEWLINE] Twoja jednostka prawie została schwytana przez {1_Civ}, ale udało jej się uciec.</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="pl_PL">
+			<Text>Jednostka prawie schwytana</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="ko_KR">
+			<Text>보호되지 않은 유닛을 무방비 상태에 놓는 것은 현명하지 않습니다. [NEWLINE][NEWLINE] 당신의 유닛은 {1_Civ}에게 거의 잡힐 뻔 했지만 도망쳤습니다.</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="ko_KR">
+			<Text>유닛 거의 잡힘</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="ja_JP">
+			<Text>無防備の状態で保護されていないユニットを置くのは賢明ではありません。[NEWLINE][NEWLINE] あなたのユニットは{1_Civ}にほとんど捕らえられましたが、彼は逃げました。</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="ja_JP">
+			<Text>ユニットほぼ捕獲</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="ru_RU">
+			<Text>Оставить незащищенную единицу в состоянии беззащитности не мудро. [NEWLINE][NEWLINE] Ваша единица чуть не была захвачена {1_Civ}, но сумела уйти.</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="ru_RU">
+			<Text>Единица чуть не была захвачена</Text>
+		</Replace> -->
+
+		<Replace Tag="LOC_UNIT_CAPTURED" Language="en_US">
+			<Text>Leaving an unprotected unit in a defenseless state is unwise. [NEWLINE][NEWLINE] Your unit was nearly captured by {1_Civ}, but managed to escape.</Text>
+		</Replace>
+		<!-- <Replace Tag="LOC_UNIT_CAPTURE_DEFAULT" Language="en_US">
+			<Text>Unit nearly captured</Text>
+		</Replace> -->
+
+	</LocalizedText>
+</GameData>
